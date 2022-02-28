@@ -1,5 +1,3 @@
-# Википедия Raspberry pi
-
 ## Перед началом работы 
 
 [Подключение по SSH](http://wiki.amperka.ru/rpi:installation:ssh)
@@ -19,6 +17,8 @@
 
 
 ## GPIO 
+
+[Распиновка Raspberry pi 4 model B](http://wiki.amperka.ru/products:raspberry-pi-4-model-b)
 
 [Распиновка Raspberry pi 3 model B](http://wiki.amperka.ru/rpi:raspberry-pi-3-model-b)
 
