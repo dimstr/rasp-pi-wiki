@@ -8,7 +8,6 @@
 
 [Настройка камер](http://wiki.amperka.ru/articles:raspberry-pi-camera-guide)
 
----
 
 ## Установка библиотеки openCV и примеры программ
 
@@ -18,7 +17,7 @@
 
 [Репозиторий первоисточник](https://github.com/carolinedunn/facial_recognition)
 
----
+
 ## GPIO 
 
 [Распиновка Raspberry pi 3 model B](http://wiki.amperka.ru/rpi:raspberry-pi-3-model-b)
@@ -26,3 +25,8 @@
 [Распиновка Raspberry pi 3 model A](http://wiki.amperka.ru/rpi:raspberry-pi-3-model-a)
 
 [Работа с GPIO](http://edurobots.ru/2014/07/raspberry-pi-pervoe-znakomstvo-urok-4-upravlenie-cherez-gpio/)
+
+
+---
+
+Copyright ©️ 2022
