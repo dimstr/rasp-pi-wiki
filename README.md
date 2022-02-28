@@ -9,7 +9,7 @@
 
 ## Установка библиотеки openCV и примеры программ
 
-[Установка opencv proglib](https://proglib.io/p/uchim-raspberry-pi-raspoznavaniyu-lic-2020-11-15)
+[Установка openCV proglib](https://proglib.io/p/uchim-raspberry-pi-raspoznavaniyu-lic-2020-11-15)
 
 [Установка openCV и пример программы](https://core-electronics.com.au/tutorials/face-identify-raspberry-pi.html)
 
