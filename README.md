@@ -2,6 +2,7 @@
 
 [Подключение по SSH](http://wiki.amperka.ru/rpi:installation:ssh)
 [Подключение по VNC](http://wiki.amperka.ru/rpi:installation:vnc)
+[Настройка камер](http://wiki.amperka.ru/articles:raspberry-pi-camera-guide)
 
 [Установка opencv proglib](https://proglib.io/p/uchim-raspberry-pi-raspoznavaniyu-lic-2020-11-15)
 [Установка и программа opencv](https://core-electronics.com.au/tutorials/face-identify-raspberry-pi.html)
