@@ -24,9 +24,11 @@
 
 [Распиновка Raspberry pi 3 model A+](http://wiki.amperka.ru/products:raspberry-pi-3-model-a-plus)
 
-[Работа с GPIO](http://edurobots.ru/2014/07/raspberry-pi-pervoe-znakomstvo-urok-4-upravlenie-cherez-gpio/)
+[Мигание светодиода через GPIO с помошью rasberr pi](http://edurobots.ru/2014/07/raspberry-pi-pervoe-znakomstvo-urok-4-upravlenie-cherez-gpio/)
 
 
 ---
 
 Copyright ©️ 2022
+
+
