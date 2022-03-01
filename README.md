@@ -11,7 +11,7 @@
 
 [Установка openCV (proglib.io) ](https://proglib.io/p/uchim-raspberry-pi-raspoznavaniyu-lic-2020-11-15)
 
-[Установка openCV и пример программы](https://core-electronics.com.au/tutorials/face-identify-raspberry-pi.html)
+[Установка openCV и пример программы(на английском) ](https://core-electronics.com.au/tutorials/face-identify-raspberry-pi.html)
 
 [Репозиторий первоисточник](https://github.com/carolinedunn/facial_recognition)
 
